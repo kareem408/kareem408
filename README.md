@@ -1,9 +1,4 @@
 <!-- Profile visitor counter -->
-<p align="center">
-  <b>Visitor Count</b> <br>
-  <img src="https://profile-counter.glitch.me/kareem-mahmoud/count.svg" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Kareem Mahmoud</h1>
 <h3 align="center">A passionate Full Stack Developer from Egypt 🇪🇬</h3>
 
